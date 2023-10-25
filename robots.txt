@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TINKPA.github.io/al-folio/sitemap.xml
+Sitemap: https://TINKPA.github.io/sitemap.xml
