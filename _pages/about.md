@@ -26,12 +26,7 @@ Hello! I'm a senior at UCLA, majoring in Mathematics of Computation. I am deeply
 - **Degree:** Bachelor of Science in Mathematics of Computation
 - **Expected Graduation:** December 2023
 - **Relevant Courses:** 
-  - Linear Algebra
-  - Probability and Statistics
-  - Calculus
-  - Discrete Mathematics
-  - Machine Learning
-  - Data Analysis
+  - Linear Algebra, Probability and Statistics, Calculus, Discrete Mathematics, Machine Learning, Data Analysis
 
 ### Freie Universität Berlin, Berlin, Germany
 - **Course:** German Philosophy: From Kant to Kabermas
