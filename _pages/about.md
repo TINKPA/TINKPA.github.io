@@ -35,19 +35,6 @@ Hello! I'm a senior at UCLA, majoring in Mathematics of Computation. I am deeply
 - **Advisor:** Dr. Frieder Otto Wolf, a fellow at the research institute of the Rosa-Luxemburg-Foundation
 - **Achievements:** Attained a perfect GPA of 4.0/4.0
 
-## Research Experience
-
-### Undergraduate Research Assistant
-- **Institution:** University of California, Los Angeles (UCLA)
-- **Duration:** June 2021 - September 2021
-- **Project:** Iterated Robust CUR (IRCUR) for Robust Principal Component Analysis (RPCA)
-- **Advisor:** Dr. HanQin Cai
-- **Key Contributions:**
-  - Enhanced the IRCUR algorithm, improving its performance in RPCA problems.
-  - Applied the refined IRCUR algorithm to topic modeling problems.
-  - Conducted comprehensive numerical experiments to validate algorithm improvements.
-  - Actively participated in research discussions, contributing to academic publications.
-
 ## Professional Experience
 
 ### Data Science Intern
