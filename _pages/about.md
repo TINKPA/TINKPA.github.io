@@ -24,7 +24,7 @@ Hello! I'm a senior at UCLA, majoring in Mathematics of Computation. I am deeply
 
 ### University of California, Los Angeles (UCLA)
 - **Degree:** Bachelor of Science in Mathematics of Computation
-- **Expected Graduation:** December 2023
+- **Expected Graduation:** 2025
 - **Relevant Courses:** 
   - Linear Algebra, Probability and Statistics, Calculus, Discrete Mathematics, Machine Learning, Data Analysis
   - Algorithm, Data Structures, Software Construction, Artificial Intelligence, Computer Graphics, Formal Languages
